@@ -4,7 +4,7 @@ import com.atguigu.springcloud.service.PaymentHystrixService;
 import org.springframework.stereotype.Component;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  */
 @Component
 public class PaymentFallbackServiceImpl implements PaymentHystrixService {

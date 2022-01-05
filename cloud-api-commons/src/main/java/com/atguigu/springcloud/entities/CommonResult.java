@@ -3,7 +3,7 @@ package com.atguigu.springcloud.entities;
 import lombok.Data;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  * @date 2020/12/18 20:17
  * @description
  */

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  * @date 2020/12/23 9:25
  * @description 自定义的负载均衡实现
  */
@@ -16,7 +16,7 @@ public class MyLB implements MyLoadBalancer {
     private AtomicInteger atomicInteger = new AtomicInteger(0);
 
     /**
-     * @author lixiaolong
+     * @author xiaohu
      * @date 2020/12/23 10:07
      * @description 判断时第几次访问
      */
@@ -38,7 +38,7 @@ public class MyLB implements MyLoadBalancer {
      *
      * @param serviceInstances
      * @return ServiceInstance
-     * @author lixiaolong
+     * @author xiaohu
      * @date 2020/12/23 9:51
      */
     @Override

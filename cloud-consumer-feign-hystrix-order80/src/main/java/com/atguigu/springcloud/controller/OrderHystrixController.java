@@ -14,7 +14,7 @@ import javax.annotation.Resource;
 
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  */
 @RestController
 @RequestMapping("consumer")

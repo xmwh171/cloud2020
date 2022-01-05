@@ -14,7 +14,7 @@ import java.net.URI;
 import java.util.List;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  * @date 2020/12/19 11:31
  * @description
  */
@@ -65,7 +65,7 @@ public class OrderController {
     }
 
     /**
-     * @author lixiaolong
+     * @author xiaohu
      * @date 2020/12/23 10:27
      * @description 测试自定义的符在均衡规则
      */

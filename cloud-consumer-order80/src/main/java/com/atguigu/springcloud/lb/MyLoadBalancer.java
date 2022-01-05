@@ -5,7 +5,7 @@ import org.springframework.cloud.client.ServiceInstance;
 import java.util.List;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  * @date 2020/12/23 9:22
  * @description 创建自己的负载均衡接口
  */
@@ -18,7 +18,7 @@ public interface MyLoadBalancer {
      *
      * @param serviceInstances
      * @return ServiceInstance
-     * @author lixiaolong
+     * @author xiaohu
      * @date 2020/12/23 9:24
      */
     ServiceInstance instances(List<ServiceInstance> serviceInstances);

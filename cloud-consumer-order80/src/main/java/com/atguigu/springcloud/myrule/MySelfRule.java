@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author lixiaolong
+ * @author xiaohu
  * @date 2020/12/22 20:54
  * @description 该类是ribbon的自定义策略
  */
