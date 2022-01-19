@@ -1,4 +1,4 @@
-package com.atguigu.springcloud.config;
+package com.atguigu.springcloud;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
